@@ -1,7 +1,7 @@
 {
     "urls": [
         {
-            "url": "https://raw.gitmirror.com/yoursmile66/TVBox/main/XC.json",
+            "url": "https://raw.kkgithub.com/yoursmile66/TVBox/main/XC.json",
             "name": "南风"
         },
         {
